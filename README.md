@@ -120,20 +120,3 @@ Written in C, the code calculates updated temperature values based on discretize
 
 ---
 
-## 📂 Repository Structure
-
-```
-├── code.c             # Main simulation code in C
-├── Ass1_CFD.pdf       # Problem formulation, derivation, sample output
-└── README.md          # Project overview and documentation
-```
-
----
-
-## 🔗 Connect With Me
-
-**Mohammed Faizan**  
-GitHub: [faizan-codes](https://github.com/faizan-codes)  
-Email: *mohdfaizan.nitsurat@gmail.com*
-
----
